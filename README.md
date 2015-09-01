@@ -1,2 +1,2 @@
 # hello-world
-Pursuing sparkly new things
+I am currently pursuing sparkly new things
